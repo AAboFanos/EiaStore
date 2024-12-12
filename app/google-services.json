@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591406951208",
+    "project_id": "mystore-43ff5",
+    "storage_bucket": "mystore-43ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591406951208:android:5924828f5e17cb43263e1d",
+        "android_client_info": {
+          "package_name": "com.serverbase.eiastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5mh5oT5wPDEWV2ttMnjpYSAFruQbY4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
